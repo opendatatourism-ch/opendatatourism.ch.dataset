@@ -12,6 +12,7 @@
                 "email": null,
                 "name": "Hochwacht Rhinsberg",
                 "opening_hours": null,
+                "osm_id": 100873503,
                 "website": null,
                 "wikidata": "Q101445889",
                 "wikipedia": "de:Hochwacht Rhinsberg"
@@ -30,6 +31,7 @@
                 "email": null,
                 "name": "Ruine Stein",
                 "opening_hours": null,
+                "osm_id": 259024613,
                 "website": null,
                 "wikidata": "Q687130",
                 "wikipedia": "de:Ruine Stein"
@@ -48,6 +50,7 @@
                 "email": "info@schloss-lenzburg.ch",
                 "name": "Schloss Lenzburg",
                 "opening_hours": "Apr-Oct: Tu-Su 10:00-17:00",
+                "osm_id": 261672616,
                 "website": "https://www.schloss-lenzburg.ch/",
                 "wikidata": "Q668647",
                 "wikipedia": "de:Schloss Lenzburg"
@@ -66,6 +69,7 @@
                 "email": null,
                 "name": "Ruine Gilgenberg",
                 "opening_hours": null,
+                "osm_id": 264764892,
                 "website": null,
                 "wikidata": "Q2175270",
                 "wikipedia": null
@@ -84,6 +88,7 @@
                 "email": null,
                 "name": "Schloss Nidau",
                 "opening_hours": null,
+                "osm_id": 265284963,
                 "website": null,
                 "wikidata": "Q254290",
                 "wikipedia": "de:Schloss Nidau"
@@ -102,6 +107,7 @@
                 "email": null,
                 "name": "Teufelsburg",
                 "opening_hours": null,
+                "osm_id": 267360293,
                 "website": null,
                 "wikidata": "Q1157656",
                 "wikipedia": "de:Teufelsburg (Schweiz)"
@@ -120,6 +126,7 @@
                 "email": null,
                 "name": "Burgruine Bibiton",
                 "opening_hours": null,
+                "osm_id": 270412067,
                 "website": null,
                 "wikidata": "Q1010994",
                 "wikipedia": "de:Burg Bibiton"
@@ -138,6 +145,7 @@
                 "email": null,
                 "name": "Château de Vuissens",
                 "opening_hours": null,
+                "osm_id": 278138119,
                 "website": "https://www.lechateaudevuissens.com/",
                 "wikidata": "Q29689566",
                 "wikipedia": null
@@ -156,6 +164,7 @@
                 "email": null,
                 "name": "Ruine Schloss Alt-Wädenswil",
                 "opening_hours": null,
+                "osm_id": 278572856,
                 "website": null,
                 "wikidata": "Q2175194",
                 "wikipedia": "de:Ruine Alt-Wädenswil"
@@ -174,6 +183,7 @@
                 "email": null,
                 "name": "Neu-Aspermont",
                 "opening_hours": null,
+                "osm_id": 281744674,
                 "website": "http://www.bv-neuaspermont.ch/",
                 "wikidata": "Q1013226",
                 "wikipedia": "de:Burg Neu-Aspermont"
@@ -192,6 +202,7 @@
                 "email": null,
                 "name": "Schloss Thierstein",
                 "opening_hours": null,
+                "osm_id": 286986621,
                 "website": null,
                 "wikidata": "Q1013243",
                 "wikipedia": "de:Burg Neu-Thierstein"
@@ -210,6 +221,7 @@
                 "email": null,
                 "name": "Schloss Weinfelden",
                 "opening_hours": null,
+                "osm_id": 295433236,
                 "website": null,
                 "wikidata": "Q16867546",
                 "wikipedia": "de:Schloss Weinfelden"
@@ -228,6 +240,7 @@
                 "email": null,
                 "name": "Ruine Wolkenstein",
                 "opening_hours": null,
+                "osm_id": 297007116,
                 "website": null,
                 "wikidata": "Q2175501",
                 "wikipedia": "de:Ruine Wolkenstein (Hemishofen)"
@@ -246,6 +259,7 @@
                 "email": null,
                 "name": "Ruine Tannegg",
                 "opening_hours": null,
+                "osm_id": 313192014,
                 "website": null,
                 "wikidata": "Q29525893",
                 "wikipedia": "de:Ruine Tannegg"
@@ -264,6 +278,7 @@
                 "email": null,
                 "name": "Alt Wülflingen",
                 "opening_hours": null,
+                "osm_id": 316680550,
                 "website": null,
                 "wikidata": "Q1015238",
                 "wikipedia": "de:Burgruine Alt-Wülflingen"
@@ -282,6 +297,7 @@
                 "email": null,
                 "name": "Ruine Engenstein",
                 "opening_hours": null,
+                "osm_id": 377859248,
                 "website": null,
                 "wikidata": "Q1576670",
                 "wikipedia": "de:Ruine Engenstein"
@@ -300,6 +316,7 @@
                 "email": null,
                 "name": "Burgruine Niederwindegg",
                 "opening_hours": null,
+                "osm_id": 381006614,
                 "website": null,
                 "wikidata": "Q1013327",
                 "wikipedia": "de:Burg Niederwindegg"
@@ -318,6 +335,7 @@
                 "email": null,
                 "name": "Château de Vaulruz",
                 "opening_hours": null,
+                "osm_id": 381712660,
                 "website": "https://www.chateau-vaulruz.ch/",
                 "wikidata": "Q29698908",
                 "wikipedia": null
@@ -336,6 +354,7 @@
                 "email": null,
                 "name": "Ruine Iberg",
                 "opening_hours": null,
+                "osm_id": 387904945,
                 "website": null,
                 "wikidata": "Q687225",
                 "wikipedia": "de:Ruine_Iberg"
@@ -354,6 +373,7 @@
                 "email": null,
                 "name": "Ruine Uznaberg",
                 "opening_hours": null,
+                "osm_id": 388514497,
                 "website": null,
                 "wikidata": "Q1441479",
                 "wikipedia": "de:Ruine Uznaberg"
@@ -372,6 +392,7 @@
                 "email": null,
                 "name": "Schloss Sargans",
                 "opening_hours": null,
+                "osm_id": 408806844,
                 "website": "https://www.schlosssargans.ch/",
                 "wikidata": "Q1604828",
                 "wikipedia": "de:Schloss Sargans"
@@ -390,6 +411,7 @@
                 "email": null,
                 "name": "Schloss Wartenfels",
                 "opening_hours": null,
+                "osm_id": 409181646,
                 "website": "https://www.wartenfels.ch/",
                 "wikidata": "Q20012602",
                 "wikipedia": "de:Schloss Wartenfels (Lostorf)"
@@ -408,6 +430,7 @@
                 "email": null,
                 "name": "Ruine Alt-Ramschwag",
                 "opening_hours": null,
+                "osm_id": 413673790,
                 "website": null,
                 "wikidata": "Q29786484",
                 "wikipedia": null
@@ -426,6 +449,7 @@
                 "email": null,
                 "name": "Ruine Weissenau",
                 "opening_hours": null,
+                "osm_id": 419318391,
                 "website": null,
                 "wikidata": "Q2175480",
                 "wikipedia": "de:Ruine Weissenau"
@@ -444,6 +468,7 @@
                 "email": null,
                 "name": "Ruine Balm",
                 "opening_hours": null,
+                "osm_id": 427703390,
                 "website": null,
                 "wikidata": "Q1624444",
                 "wikipedia": "de:Ruine Balm"
@@ -462,6 +487,7 @@
                 "email": null,
                 "name": "Genolier Castle ( earth mound )",
                 "opening_hours": null,
+                "osm_id": 429361921,
                 "website": null,
                 "wikidata": "Q67771693",
                 "wikipedia": null
@@ -480,6 +506,7 @@
                 "email": null,
                 "name": "Ruine Lichtenstein",
                 "opening_hours": null,
+                "osm_id": 430049760,
                 "website": null,
                 "wikidata": "Q1012938",
                 "wikipedia": "de:Burg Lichtenstein (Haldenstein)"
@@ -498,6 +525,7 @@
                 "email": "info@castellodimorcote.ch",
                 "name": "Castello di Morcote",
                 "opening_hours": null,
+                "osm_id": 430148697,
                 "website": "http://www.castellodimorcote.ch/",
                 "wikidata": "Q21100352",
                 "wikipedia": "it:Castello di Morcote"
@@ -516,6 +544,7 @@
                 "email": null,
                 "name": "Castello di Mesocco",
                 "opening_hours": null,
+                "osm_id": 430272457,
                 "website": "http://www.castellomesocco.ch",
                 "wikidata": "Q474938",
                 "wikipedia": "de:Castello di Mesocco"
@@ -534,6 +563,7 @@
                 "email": null,
                 "name": "Ruine Glanzenberg",
                 "opening_hours": null,
+                "osm_id": 432633740,
                 "website": null,
                 "wikidata": "Q1404210",
                 "wikipedia": "de:Ruine_Glanzenberg"
@@ -552,6 +582,7 @@
                 "email": null,
                 "name": "Schloss Altenklingen",
                 "opening_hours": null,
+                "osm_id": 444011388,
                 "website": null,
                 "wikidata": "Q685343",
                 "wikipedia": "de:Schloss Altenklingen"
@@ -570,6 +601,7 @@
                 "email": null,
                 "name": "Ruine Ober-Ruchenberg",
                 "opening_hours": null,
+                "osm_id": 445356014,
                 "website": null,
                 "wikidata": "Q1013367",
                 "wikipedia": "de:Burg_Ober-Ruchenberg"
@@ -588,6 +620,7 @@
                 "email": null,
                 "name": "Château de Rue",
                 "opening_hours": null,
+                "osm_id": 461144261,
                 "website": null,
                 "wikidata": "Q2970455",
                 "wikipedia": null
@@ -606,6 +639,7 @@
                 "email": null,
                 "name": "Ruine Radegg",
                 "opening_hours": null,
+                "osm_id": 469281641,
                 "website": null,
                 "wikidata": "Q2175385",
                 "wikipedia": "de:Ruine Radegg"
@@ -624,6 +658,7 @@
                 "email": null,
                 "name": "Château de Gorgier",
                 "opening_hours": null,
+                "osm_id": 491527188,
                 "website": null,
                 "wikidata": "Q5586285",
                 "wikipedia": "en:Gorgier Castle"
@@ -642,6 +677,7 @@
                 "email": null,
                 "name": "Ruine Rotenfluh",
                 "opening_hours": null,
+                "osm_id": 495077298,
                 "website": null,
                 "wikidata": "Q67772034",
                 "wikipedia": null
@@ -660,6 +696,7 @@
                 "email": null,
                 "name": "Burgstelle Werdegg",
                 "opening_hours": null,
+                "osm_id": 513751098,
                 "website": null,
                 "wikidata": "Q102884812",
                 "wikipedia": "de:Burg Werdegg"
@@ -678,6 +715,7 @@
                 "email": null,
                 "name": "Ruine Alt Oberhofen",
                 "opening_hours": null,
+                "osm_id": 552402325,
                 "website": null,
                 "wikidata": "Q1010722",
                 "wikipedia": "de:Burg Alt-Oberhofen"
@@ -696,6 +734,7 @@
                 "email": null,
                 "name": "Burg Graepplang",
                 "opening_hours": "24/7",
+                "osm_id": 572206579,
                 "website": null,
                 "wikidata": "Q1012088",
                 "wikipedia": "de:Burg_Gräpplang"
@@ -714,6 +753,7 @@
                 "email": null,
                 "name": "Wildenburg",
                 "opening_hours": null,
+                "osm_id": 573262035,
                 "website": null,
                 "wikidata": "Q1014600",
                 "wikipedia": "de:Burg Wildenburg (Zug)"
@@ -732,6 +772,7 @@
                 "email": null,
                 "name": "Château de Pleujouse",
                 "opening_hours": null,
+                "osm_id": 592526781,
                 "website": null,
                 "wikidata": "Q2970241",
                 "wikipedia": "fr:Château de Pleujouse"
@@ -750,6 +791,7 @@
                 "email": null,
                 "name": "Ruine Kindhausen",
                 "opening_hours": null,
+                "osm_id": 601484095,
                 "website": null,
                 "wikidata": "Q2175329",
                 "wikipedia": "de:Ruine Kindhausen"
@@ -768,6 +810,7 @@
                 "email": null,
                 "name": "Tour du Vully",
                 "opening_hours": null,
+                "osm_id": 656676880,
                 "website": null,
                 "wikidata": "Q29890498",
                 "wikipedia": null
@@ -786,6 +829,7 @@
                 "email": null,
                 "name": "Burgruine Moosburg",
                 "opening_hours": null,
+                "osm_id": 699050152,
                 "website": null,
                 "wikidata": "Q1421777",
                 "wikipedia": "de:Moosburg (Effretikon)"
@@ -804,6 +848,7 @@
                 "email": null,
                 "name": "Ruine Randenburg",
                 "opening_hours": null,
+                "osm_id": 727655255,
                 "website": null,
                 "wikidata": "Q2175392",
                 "wikipedia": "de:Randenburg (Randen)"
@@ -822,6 +867,7 @@
                 "email": null,
                 "name": "Schloss Wellenberg",
                 "opening_hours": null,
+                "osm_id": 731424048,
                 "website": "http://www.schlosswellenberg.ch/",
                 "wikidata": "Q17041680",
                 "wikipedia": "de:Schloss Wellenberg (Frauenfeld)"
@@ -840,6 +886,7 @@
                 "email": null,
                 "name": "Ruine Urgiz",
                 "opening_hours": null,
+                "osm_id": 736649042,
                 "website": null,
                 "wikidata": "Q2175475",
                 "wikipedia": "de:Ruine_Urgiz"
@@ -858,6 +905,7 @@
                 "email": null,
                 "name": "Tour Bayart",
                 "opening_hours": null,
+                "osm_id": 741014716,
                 "website": "https://www.saillon.ch/tourisme/histoire/tour-bayart.aspx",
                 "wikidata": "Q29573897",
                 "wikipedia": null
@@ -876,6 +924,7 @@
                 "email": null,
                 "name": "Ruine Hohentrins",
                 "opening_hours": null,
+                "osm_id": 773110627,
                 "website": null,
                 "wikidata": "Q1138940",
                 "wikipedia": "de:Crap Sogn Parcazi"
@@ -894,6 +943,7 @@
                 "email": null,
                 "name": "Burgruine Belmont",
                 "opening_hours": null,
+                "osm_id": 775651213,
                 "website": null,
                 "wikidata": "Q1010936",
                 "wikipedia": "de:Burg Belmont"
@@ -912,6 +962,7 @@
                 "email": null,
                 "name": "Burg Neuburg",
                 "opening_hours": null,
+                "osm_id": 775728152,
                 "website": "http://www.burgenverein-untervaz.ch/",
                 "wikidata": "Q1013259",
                 "wikipedia": "de:Burg Neuburg (Untervaz)"
@@ -930,6 +981,7 @@
                 "email": null,
                 "name": "Ruine Haldenstein",
                 "opening_hours": null,
+                "osm_id": 775761161,
                 "website": null,
                 "wikidata": "Q1012170",
                 "wikipedia": "de:Burg Haldenstein"
@@ -948,6 +1000,7 @@
                 "email": null,
                 "name": "Burgruine Alt-Eschenbach",
                 "opening_hours": null,
+                "osm_id": 823730511,
                 "website": null,
                 "wikidata": "Q29522183",
                 "wikipedia": null
@@ -966,6 +1019,7 @@
                 "email": null,
                 "name": "Fortezza Rohan",
                 "opening_hours": "24/7",
+                "osm_id": 833517119,
                 "website": null,
                 "wikidata": "Q1438954",
                 "wikipedia": "de:Fortezza Rohan"
@@ -984,6 +1038,7 @@
                 "email": "schlosshallwyl@ag.ch",
                 "name": "Schloss Hallwyl",
                 "opening_hours": null,
+                "osm_id": 846857999,
                 "website": "http://www.schlosshallwyl.ch",
                 "wikidata": "Q870354",
                 "wikipedia": "de:Schloss Hallwyl"
@@ -1002,6 +1057,7 @@
                 "email": null,
                 "name": "Schloss Brestenberg",
                 "opening_hours": null,
+                "osm_id": 881271198,
                 "website": null,
                 "wikidata": "Q2240410",
                 "wikipedia": "de:Schloss Brestenberg"
@@ -1020,6 +1076,7 @@
                 "email": null,
                 "name": "Burgruine Alt-Tierstein",
                 "opening_hours": null,
+                "osm_id": 886297441,
                 "website": null,
                 "wikidata": "Q1015229",
                 "wikipedia": "de:Burgruine_Alt-Tierstein"
@@ -1038,6 +1095,7 @@
                 "email": null,
                 "name": "Ruine Alt-Homberg",
                 "opening_hours": null,
+                "osm_id": 886331060,
                 "website": null,
                 "wikidata": "Q19362404",
                 "wikipedia": "de:Ruine Alt Homberg"
@@ -1056,6 +1114,7 @@
                 "email": null,
                 "name": "Schloss Castell",
                 "opening_hours": null,
+                "osm_id": 891477480,
                 "website": null,
                 "wikidata": "Q2240512",
                 "wikipedia": "de:Schloss Castell"
@@ -1074,6 +1133,7 @@
                 "email": null,
                 "name": "Schloss Erlach",
                 "opening_hours": null,
+                "osm_id": 1005690810,
                 "website": null,
                 "wikidata": "Q2240905",
                 "wikipedia": "de:Schloss Erlach (Erlach)"
@@ -1092,6 +1152,7 @@
                 "email": null,
                 "name": "Schloss Ebersberg",
                 "opening_hours": null,
+                "osm_id": 1061568373,
                 "website": null,
                 "wikidata": "Q15127608",
                 "wikipedia": "de:Schloss Ebersberg (Thurgau)"
@@ -1110,6 +1171,7 @@
                 "email": null,
                 "name": "Schloss Bernegg",
                 "opening_hours": null,
+                "osm_id": 1061568374,
                 "website": null,
                 "wikidata": "Q2240274",
                 "wikipedia": "de:Schloss Bernegg"
@@ -1128,6 +1190,7 @@
                 "email": null,
                 "name": "Burgruine Neu Toggenburg",
                 "opening_hours": null,
+                "osm_id": 1081356109,
                 "website": null,
                 "wikidata": "Q29786710",
                 "wikipedia": "de:Neu-Toggenburg"
@@ -1146,6 +1209,7 @@
                 "email": null,
                 "name": "Schloss Hilfikon",
                 "opening_hours": null,
+                "osm_id": 1102444727,
                 "website": null,
                 "wikidata": "Q2241557",
                 "wikipedia": "de:Schloss Hilfikon"
@@ -1164,6 +1228,7 @@
                 "email": null,
                 "name": "Burgstelle Halden",
                 "opening_hours": null,
+                "osm_id": 1104659087,
                 "website": null,
                 "wikidata": "Q102892526",
                 "wikipedia": null
@@ -1182,6 +1247,7 @@
                 "email": null,
                 "name": "Château d'Aigremont",
                 "opening_hours": null,
+                "osm_id": 1107028549,
                 "website": null,
                 "wikidata": "Q29891366",
                 "wikipedia": "pt:Castelo de Aigremont"
@@ -1200,6 +1266,7 @@
                 "email": null,
                 "name": "Ruina de Carniec",
                 "opening_hours": null,
+                "osm_id": 1138005376,
                 "website": null,
                 "wikidata": "Q1012097",
                 "wikipedia": "de:Burg Grüneck (Ilanz)"
@@ -1218,6 +1285,7 @@
                 "email": null,
                 "name": "Les Vernex I (Châtillon)",
                 "opening_hours": null,
+                "osm_id": 1240275907,
                 "website": "http://www.dillum.ch/html/verney_vernex_autigny_fr_ch%C3%A2teaux.htm",
                 "wikidata": "Q67772742",
                 "wikipedia": null
@@ -1236,6 +1304,7 @@
                 "email": null,
                 "name": "Les Vernex II (Le Ressat)",
                 "opening_hours": null,
+                "osm_id": 1240275933,
                 "website": "http://www.dillum.ch/html/verney_vernex_autigny_fr_ch%C3%A2teaux.htm",
                 "wikidata": "Q104530246",
                 "wikipedia": null
@@ -1254,6 +1323,7 @@
                 "email": null,
                 "name": "Räsch",
                 "opening_hours": null,
+                "osm_id": 1240280867,
                 "website": "http://www.dillum.ch/html/raesch_duedingen_fr_kastell.htm",
                 "wikidata": "Q67772049",
                 "wikipedia": null
@@ -1272,6 +1342,7 @@
                 "email": null,
                 "name": "Ruine Sünikon",
                 "opening_hours": null,
+                "osm_id": 1256452145,
                 "website": null,
                 "wikidata": "Q1801797",
                 "wikipedia": "de:Ruine Sünikon"
@@ -1290,6 +1361,7 @@
                 "email": null,
                 "name": "Burg Neu-Süns",
                 "opening_hours": null,
+                "osm_id": 1264014165,
                 "website": null,
                 "wikidata": "Q1013241",
                 "wikipedia": "en:Neu-Süns Castle"
@@ -1308,6 +1380,7 @@
                 "email": null,
                 "name": "Johanniterkommende Hohenrain",
                 "opening_hours": null,
+                "osm_id": 1267864539,
                 "website": null,
                 "wikidata": "Q31839275",
                 "wikipedia": "de:Johanniterkommende Hohenrain"
@@ -1326,6 +1399,7 @@
                 "email": null,
                 "name": "Goldhubel",
                 "opening_hours": null,
+                "osm_id": 1277963444,
                 "website": null,
                 "wikidata": "Q2175277",
                 "wikipedia": "de:Ruine Goldhubel"
@@ -1344,6 +1418,7 @@
                 "email": null,
                 "name": "Ruine Alt-Lägern",
                 "opening_hours": null,
+                "osm_id": 1313324037,
                 "website": null,
                 "wikidata": "Q1456698",
                 "wikipedia": "de:Ruine Alt-Lägern"
@@ -1362,6 +1437,7 @@
                 "email": null,
                 "name": "Ruine Schleifenrain",
                 "opening_hours": null,
+                "osm_id": 1324387655,
                 "website": null,
                 "wikidata": "Q1013889",
                 "wikipedia": "de:Burg Schleifenrain"
@@ -1380,6 +1456,7 @@
                 "email": null,
                 "name": "Burgruine Mülenen",
                 "opening_hours": null,
+                "osm_id": 1334902352,
                 "website": null,
                 "wikidata": "Q1015428",
                 "wikipedia": "de:Burgruine Mülenen"
@@ -1398,6 +1475,7 @@
                 "email": null,
                 "name": "Schloss Maienfeld",
                 "opening_hours": null,
+                "osm_id": 1335415120,
                 "website": "https://www.schlossmaienfeld.ch",
                 "wikidata": "Q2240377",
                 "wikipedia": null
@@ -1416,6 +1494,7 @@
                 "email": null,
                 "name": "Ehemalige Johanniterkommende Reiden",
                 "opening_hours": null,
+                "osm_id": 1349596592,
                 "website": "https://www.kommende-reiden.ch/",
                 "wikidata": "Q63850496",
                 "wikipedia": null
@@ -1434,6 +1513,7 @@
                 "email": null,
                 "name": "Burgruine Friesenberg",
                 "opening_hours": "24/7",
+                "osm_id": 1358175519,
                 "website": null,
                 "wikidata": "Q1011875",
                 "wikipedia": "de:Burg Friesenberg (ZH)"
@@ -1452,6 +1532,7 @@
                 "email": null,
                 "name": "Ruine Neuburg",
                 "opening_hours": null,
+                "osm_id": 1372417009,
                 "website": null,
                 "wikidata": "Q1979319",
                 "wikipedia": "de:Neuburg (Mammern)"
@@ -1470,6 +1551,7 @@
                 "email": null,
                 "name": "Château de Montorge",
                 "opening_hours": null,
+                "osm_id": 1403655618,
                 "website": null,
                 "wikidata": "Q29928365",
                 "wikipedia": "fr:Château de Montorge"
@@ -1488,6 +1570,7 @@
                 "email": null,
                 "name": "Burgruine Bottenstein",
                 "opening_hours": null,
+                "osm_id": 1420158205,
                 "website": null,
                 "wikidata": "Q67772053",
                 "wikipedia": null
@@ -1506,6 +1589,7 @@
                 "email": null,
                 "name": "Ruine Bärenfels",
                 "opening_hours": null,
+                "osm_id": 1481493390,
                 "website": null,
                 "wikidata": "Q1011258",
                 "wikipedia": "de:Burg_Bärenfels_(Duggingen)"
@@ -1524,6 +1608,7 @@
                 "email": null,
                 "name": "Unteres Schloss",
                 "opening_hours": null,
+                "osm_id": 1500548359,
                 "website": null,
                 "wikidata": "Q866258",
                 "wikipedia": "de:Bischöfliches Schloss Fürstenau"
@@ -1542,6 +1627,7 @@
                 "email": null,
                 "name": "Schloss Schauenstein",
                 "opening_hours": null,
+                "osm_id": 1500554009,
                 "website": null,
                 "wikidata": "Q1276044",
                 "wikipedia": "de:Schloss_Schauenstein"
@@ -1560,6 +1646,7 @@
                 "email": null,
                 "name": "Schloss Baldenstein",
                 "opening_hours": null,
+                "osm_id": 1511935448,
                 "website": null,
                 "wikidata": "Q2240157",
                 "wikipedia": "de:Schloss_Baldenstein"
@@ -1578,6 +1665,7 @@
                 "email": null,
                 "name": "Château de Montvoie",
                 "opening_hours": null,
+                "osm_id": 1521546163,
                 "website": null,
                 "wikidata": "Q6906665",
                 "wikipedia": null
@@ -1596,6 +1684,7 @@
                 "email": null,
                 "name": "Schloss Frauenfeld",
                 "opening_hours": null,
+                "osm_id": 1538171808,
                 "website": null,
                 "wikidata": "Q5493931",
                 "wikipedia": "de:Schloss Frauenfeld"
@@ -1614,6 +1703,7 @@
                 "email": null,
                 "name": "Casti da Salons",
                 "opening_hours": null,
+                "osm_id": 1541131042,
                 "website": null,
                 "wikidata": "Q1013807",
                 "wikipedia": "de:Burg_Salons"
@@ -1632,6 +1722,7 @@
                 "email": null,
                 "name": "Schloss Wildenstein",
                 "opening_hours": null,
+                "osm_id": 1563004916,
                 "website": "https://www.schloss-wildenstein.ch/",
                 "wikidata": "Q971167",
                 "wikipedia": "de:Schloss Wildenstein (Veltheim)"
@@ -1650,6 +1741,7 @@
                 "email": null,
                 "name": "Burg Obertagstein",
                 "opening_hours": null,
+                "osm_id": 1573128624,
                 "website": null,
                 "wikidata": "Q1013390",
                 "wikipedia": "de:Burg_Obertagstein"
@@ -1668,6 +1760,7 @@
                 "email": null,
                 "name": "Jörgenberg",
                 "opening_hours": null,
+                "osm_id": 1577255389,
                 "website": null,
                 "wikidata": "Q682756",
                 "wikipedia": "de:Burg Jörgenberg (Waltensburg)"
@@ -1686,6 +1779,7 @@
                 "email": null,
                 "name": "Burg Kropfenstein",
                 "opening_hours": null,
+                "osm_id": 1577255390,
                 "website": null,
                 "wikidata": "Q664292",
                 "wikipedia": "de:Burg Kropfenstein"
@@ -1704,6 +1798,7 @@
                 "email": null,
                 "name": "Burg Löwenberg",
                 "opening_hours": null,
+                "osm_id": 1600999161,
                 "website": null,
                 "wikidata": "Q1013043",
                 "wikipedia": "de:Burg_Löwenberg_(Graubünden)"
@@ -1722,6 +1817,7 @@
                 "email": null,
                 "name": "Château de Peseux",
                 "opening_hours": null,
+                "osm_id": 1664645003,
                 "website": null,
                 "wikidata": "Q29786042",
                 "wikipedia": null
@@ -1740,6 +1836,7 @@
                 "email": null,
                 "name": "Römisches Kastell Tenedo",
                 "opening_hours": null,
+                "osm_id": 1673982267,
                 "website": null,
                 "wikidata": "Q25388900",
                 "wikipedia": "de:Römisches Militärlager Zurzach"
@@ -1758,6 +1855,7 @@
                 "email": null,
                 "name": "Schloss Grosser Hahnberg",
                 "opening_hours": null,
+                "osm_id": 1722230355,
                 "website": null,
                 "wikidata": "Q29786390",
                 "wikipedia": null
@@ -1776,6 +1874,7 @@
                 "email": null,
                 "name": "Schloss Pfauenmoos",
                 "opening_hours": null,
+                "osm_id": 1724496255,
                 "website": null,
                 "wikidata": "Q29786391",
                 "wikipedia": null
@@ -1794,6 +1893,7 @@
                 "email": null,
                 "name": "Ruine Mittlere Birseck",
                 "opening_hours": null,
+                "osm_id": 1739971434,
                 "website": null,
                 "wikidata": "Q67772067",
                 "wikipedia": null
@@ -1812,6 +1912,7 @@
                 "email": "info@aph-eppishausen.ch",
                 "name": "Altersheim Schloss Eppishausen",
                 "opening_hours": null,
+                "osm_id": 1773939767,
                 "website": "https://www.aph-eppishausen.ch/",
                 "wikidata": "Q1423653",
                 "wikipedia": "de:Schloss Eppishausen"
@@ -1830,6 +1931,7 @@
                 "email": null,
                 "name": "Ruine Hartenkirch",
                 "opening_hours": null,
+                "osm_id": 1777404856,
                 "website": null,
                 "wikidata": "Q1704025",
                 "wikipedia": "de:Ruine_Hartenkirch"
@@ -1848,6 +1950,7 @@
                 "email": null,
                 "name": "Burgruine Wichenstein",
                 "opening_hours": "24/7",
+                "osm_id": 1814162035,
                 "website": null,
                 "wikidata": "Q7998102",
                 "wikipedia": null
@@ -1866,6 +1969,7 @@
                 "email": null,
                 "name": "Ruine Freudenau",
                 "opening_hours": null,
+                "osm_id": 1817826516,
                 "website": null,
                 "wikidata": "Q2175272",
                 "wikipedia": "de:Ruine Freudenau"
@@ -1884,6 +1988,7 @@
                 "email": null,
                 "name": "Ruine Alt-Signau",
                 "opening_hours": null,
+                "osm_id": 1843010139,
                 "website": null,
                 "wikidata": "Q2175178",
                 "wikipedia": "de:Ruine_Alt-Signau"
@@ -1902,6 +2007,7 @@
                 "email": null,
                 "name": "Schloss Marienburg",
                 "opening_hours": null,
+                "osm_id": 1851215862,
                 "website": "http://www.kloster-wikon.ch/schloss-wikon.html",
                 "wikidata": "Q29785849",
                 "wikipedia": null
@@ -1920,6 +2026,7 @@
                 "email": null,
                 "name": "Burgstelle Hohenteufen",
                 "opening_hours": null,
+                "osm_id": 1862065036,
                 "website": null,
                 "wikidata": "Q29932628",
                 "wikipedia": "de:Burgstelle Hohenteufen"
@@ -1938,6 +2045,7 @@
                 "email": null,
                 "name": "La Tour d'Hermance",
                 "opening_hours": null,
+                "osm_id": 1876085057,
                 "website": null,
                 "wikidata": "Q30739694",
                 "wikipedia": "fr:Château d'Hermance"
@@ -1956,6 +2064,7 @@
                 "email": null,
                 "name": "Burg Splügen",
                 "opening_hours": null,
+                "osm_id": 1888132778,
                 "website": null,
                 "wikidata": "Q1014040",
                 "wikipedia": "de:Burg_Splügen"
@@ -1974,6 +2083,7 @@
                 "email": null,
                 "name": "Schloss Riggisberg",
                 "opening_hours": null,
+                "osm_id": 1912799568,
                 "website": null,
                 "wikidata": "Q1537155",
                 "wikipedia": null
@@ -1992,6 +2102,7 @@
                 "email": null,
                 "name": "Schloss Gümligen",
                 "opening_hours": null,
+                "osm_id": 1946695311,
                 "website": null,
                 "wikidata": "Q2241361",
                 "wikipedia": "de:Schloss Gümligen"
@@ -2010,6 +2121,7 @@
                 "email": null,
                 "name": "Schloss Muri bei Bern",
                 "opening_hours": null,
+                "osm_id": 1946698494,
                 "website": null,
                 "wikidata": "Q2242487",
                 "wikipedia": "de:Schloss Muri"
@@ -2028,6 +2140,7 @@
                 "email": null,
                 "name": "La Serra",
                 "opening_hours": null,
+                "osm_id": 1950345330,
                 "website": null,
                 "wikidata": "Q1799141",
                 "wikipedia": null
@@ -2046,6 +2159,7 @@
                 "email": null,
                 "name": "Ruine Schadburg",
                 "opening_hours": null,
+                "osm_id": 1960962516,
                 "website": null,
                 "wikidata": "Q1335263",
                 "wikipedia": "de:Ruine Schadburg"
@@ -2064,6 +2178,7 @@
                 "email": null,
                 "name": "Sternenberg",
                 "opening_hours": null,
+                "osm_id": 1984132510,
                 "website": null,
                 "wikidata": "Q2175444",
                 "wikipedia": "de:Ruine Sternenberg"
@@ -2082,6 +2197,7 @@
                 "email": null,
                 "name": "Ruine Falkenstein",
                 "opening_hours": null,
+                "osm_id": 2007067214,
                 "website": null,
                 "wikidata": "Q1011680",
                 "wikipedia": "de:Burg Falkenstein (Igis)"
@@ -2100,6 +2216,7 @@
                 "email": null,
                 "name": "Burgruine Chastels",
                 "opening_hours": null,
+                "osm_id": 2063816822,
                 "website": null,
                 "wikidata": "Q67772071",
                 "wikipedia": null
@@ -2118,6 +2235,7 @@
                 "email": null,
                 "name": "Kastell Ad Fines",
                 "opening_hours": null,
+                "osm_id": 2097929678,
                 "website": null,
                 "wikidata": "Q1124663",
                 "wikipedia": "de:Kastell Pfyn"
@@ -2136,6 +2254,7 @@
                 "email": null,
                 "name": "Burgstelle Alt Meldegg",
                 "opening_hours": null,
+                "osm_id": 2117906320,
                 "website": null,
                 "wikidata": "Q67772076",
                 "wikipedia": null
@@ -2154,6 +2273,7 @@
                 "email": null,
                 "name": "Schloss Interlaken",
                 "opening_hours": null,
+                "osm_id": 2123811689,
                 "website": null,
                 "wikidata": "Q2241722",
                 "wikipedia": "de:Schloss Interlaken"
@@ -2172,6 +2292,7 @@
                 "email": null,
                 "name": "Château du Moutier",
                 "opening_hours": null,
+                "osm_id": 2194597818,
                 "website": null,
                 "wikidata": "Q2242490",
                 "wikipedia": "de:Schloss Moutier"
@@ -2190,6 +2311,7 @@
                 "email": null,
                 "name": "Ruine Rüdberg",
                 "opening_hours": null,
+                "osm_id": 2260257903,
                 "website": null,
                 "wikidata": "Q29786711",
                 "wikipedia": "de:Burg Rüdberg"
@@ -2208,6 +2330,7 @@
                 "email": null,
                 "name": "Château de Lucens",
                 "opening_hours": null,
+                "osm_id": 2269507685,
                 "website": "https://www.chateaudelucens.ch/",
                 "wikidata": "Q2969752",
                 "wikipedia": "fr:Château de Lucens"
@@ -2226,6 +2349,7 @@
                 "email": null,
                 "name": "Ruine Sissacherfluh",
                 "opening_hours": null,
+                "osm_id": 2284921447,
                 "website": null,
                 "wikidata": "Q1736132",
                 "wikipedia": "de:Ruine Sissacherfluh"
@@ -2244,6 +2368,7 @@
                 "email": null,
                 "name": "Burgruine Neu-Bubenberg",
                 "opening_hours": null,
+                "osm_id": 2302886421,
                 "website": null,
                 "wikidata": "Q1013231",
                 "wikipedia": "de:Burg Neu-Bubenberg"
@@ -2262,6 +2387,7 @@
                 "email": null,
                 "name": "Schloss Schwarzenbach",
                 "opening_hours": null,
+                "osm_id": 2330714364,
                 "website": null,
                 "wikidata": "Q1265744",
                 "wikipedia": null
@@ -2280,6 +2406,7 @@
                 "email": null,
                 "name": "Schloss Trachselwald",
                 "opening_hours": null,
+                "osm_id": 2344764659,
                 "website": "http://trachselwald-castle.ch/",
                 "wikidata": "Q547064",
                 "wikipedia": "de:Schloss Trachselwald"
@@ -2298,6 +2425,7 @@
                 "email": null,
                 "name": "Schloss Spittel",
                 "opening_hours": null,
+                "osm_id": 2346025282,
                 "website": null,
                 "wikidata": "Q2243568",
                 "wikipedia": "de:Schloss Spittel"
@@ -2316,6 +2444,7 @@
                 "email": null,
                 "name": "Burg Spitzenberg",
                 "opening_hours": null,
+                "osm_id": 2388546710,
                 "website": null,
                 "wikidata": "Q1014030",
                 "wikipedia": "de:Burg_Spitzenberg_(BE)"
@@ -2334,6 +2463,7 @@
                 "email": null,
                 "name": "Ruine Schenkon",
                 "opening_hours": null,
+                "osm_id": 2392400819,
                 "website": null,
                 "wikidata": "Q7143",
                 "wikipedia": "de:Schenkon#Ruine_Schenkon"
@@ -2352,6 +2482,7 @@
                 "email": null,
                 "name": "Burgstelle Ruchenstein",
                 "opening_hours": null,
+                "osm_id": 2396214157,
                 "website": null,
                 "wikidata": "Q102895063",
                 "wikipedia": null
@@ -2370,6 +2501,7 @@
                 "email": null,
                 "name": "Ruine Grünenberg",
                 "opening_hours": null,
+                "osm_id": 2430389756,
                 "website": "https://www.gruenenberg.ch/",
                 "wikidata": "Q1156041",
                 "wikipedia": "de:Ruine Grünenberg (Melchnau)"
@@ -2388,6 +2520,7 @@
                 "email": null,
                 "name": "Ruine Alt-Aspermont",
                 "opening_hours": null,
+                "osm_id": 2488241533,
                 "website": null,
                 "wikidata": "Q2175166",
                 "wikipedia": "de:Ruine_Alt-Aspermont"
@@ -2406,6 +2539,7 @@
                 "email": null,
                 "name": "Schloss Roggwil",
                 "opening_hours": null,
+                "osm_id": 2504217457,
                 "website": "http://www.schloss-roggwil.ch/",
                 "wikidata": "Q29883259",
                 "wikipedia": null
@@ -2424,6 +2558,7 @@
                 "email": null,
                 "name": "Burgruine Stahlegg",
                 "opening_hours": null,
+                "osm_id": 2530784679,
                 "website": null,
                 "wikidata": "Q1014149",
                 "wikipedia": "de:Burg Strahlegg (Fideris)"
@@ -2442,6 +2577,7 @@
                 "email": null,
                 "name": "Burg Burgau",
                 "opening_hours": null,
+                "osm_id": 2579685626,
                 "website": null,
                 "wikidata": "Q67772091",
                 "wikipedia": null
@@ -2460,6 +2596,7 @@
                 "email": null,
                 "name": "Burgstelle Gielen-Glattburg",
                 "opening_hours": null,
+                "osm_id": 2596972796,
                 "website": null,
                 "wikidata": "Q67772095",
                 "wikipedia": null
@@ -2478,6 +2615,7 @@
                 "email": null,
                 "name": "Burgstelle Hardegg",
                 "opening_hours": null,
+                "osm_id": 2635081298,
                 "website": null,
                 "wikidata": "Q67772096",
                 "wikipedia": null
@@ -2496,6 +2634,7 @@
                 "email": null,
                 "name": "Ruine Gutenfels",
                 "opening_hours": null,
+                "osm_id": 2707031234,
                 "website": null,
                 "wikidata": "Q2175280",
                 "wikipedia": "de:Ruine Gutenfels"
@@ -2514,6 +2653,7 @@
                 "email": null,
                 "name": "Burgruine Solavers",
                 "opening_hours": null,
+                "osm_id": 2713529662,
                 "website": null,
                 "wikidata": "Q1014007",
                 "wikipedia": "de:Burg Solavers"
@@ -2532,6 +2672,7 @@
                 "email": null,
                 "name": "Château de Bossonnens",
                 "opening_hours": null,
+                "osm_id": 2773375107,
                 "website": "http://www.swisscastles.ch/Fribourg/bossonnens.html",
                 "wikidata": "Q2968608",
                 "wikipedia": "fr:Château de Bossonnens"
@@ -2550,6 +2691,7 @@
                 "email": null,
                 "name": "Ruine Frohberg",
                 "opening_hours": null,
+                "osm_id": 2864969320,
                 "website": null,
                 "wikidata": "Q2175273",
                 "wikipedia": "de:Ruine Frohberg"
@@ -2568,6 +2710,7 @@
                 "email": null,
                 "name": "Ruine Tegerfelden",
                 "opening_hours": null,
+                "osm_id": 2898483720,
                 "website": null,
                 "wikidata": "Q2175459",
                 "wikipedia": "de:Ruine Tegerfelden"
@@ -2586,6 +2729,7 @@
                 "email": null,
                 "name": "Ruine Wartenstein",
                 "opening_hours": null,
+                "osm_id": 3005388608,
                 "website": null,
                 "wikidata": "Q1723316",
                 "wikipedia": "de:Ruine Wartenstein"
@@ -2604,6 +2748,7 @@
                 "email": null,
                 "name": "Ruine Gestelnburg",
                 "opening_hours": null,
+                "osm_id": 3027592069,
                 "website": null,
                 "wikidata": "Q29573881",
                 "wikipedia": null
@@ -2622,6 +2767,7 @@
                 "email": null,
                 "name": "Burgruine Fürstenstein",
                 "opening_hours": null,
+                "osm_id": 3100389901,
                 "website": null,
                 "wikidata": "Q2175269",
                 "wikipedia": "de:Ruine Fürstenstein"
@@ -2640,6 +2786,7 @@
                 "email": null,
                 "name": "Fort Militaire Châtelard",
                 "opening_hours": null,
+                "osm_id": 3149225727,
                 "website": null,
                 "wikidata": "Q67772119",
                 "wikipedia": null
@@ -2658,6 +2805,7 @@
                 "email": null,
                 "name": "Castelgrande",
                 "opening_hours": null,
+                "osm_id": 3256406527,
                 "website": "https://www.ticino.ch/de/commons/details/Castelgrande/2793.html",
                 "wikidata": "Q664376",
                 "wikipedia": "it:Castelgrande (castello)"
@@ -2676,6 +2824,7 @@
                 "email": null,
                 "name": "Castello di Montebello",
                 "opening_hours": "Apr-Nov: Mo-Su 10:00-18:00",
+                "osm_id": 3256443027,
                 "website": "https://www.ticino.ch/de/commons/details/Burg-Montebello/2796.html",
                 "wikidata": "Q664346",
                 "wikipedia": "it:Montebello (castello)"
@@ -2694,6 +2843,7 @@
                 "email": null,
                 "name": "Castello di Sasso Corbaro",
                 "opening_hours": "Apr-Nov: Mo-Su 10:00-18:00",
+                "osm_id": 3256443038,
                 "website": "https://www.bellinzonese-altoticino.ch/it/commons/details/Castello-di-Sasso-Corbaro/2797.html",
                 "wikidata": "Q663436",
                 "wikipedia": "it:Sasso Corbaro"
@@ -2712,6 +2862,7 @@
                 "email": null,
                 "name": "Castello di Pontegana",
                 "opening_hours": null,
+                "osm_id": 3266807170,
                 "website": null,
                 "wikidata": "Q7228180",
                 "wikipedia": "it:Castello di Pontegana"
@@ -2730,6 +2881,7 @@
                 "email": null,
                 "name": "Chateau de Réchy",
                 "opening_hours": null,
+                "osm_id": 3410929119,
                 "website": null,
                 "wikidata": "Q29891977",
                 "wikipedia": null
@@ -2748,6 +2900,7 @@
                 "email": null,
                 "name": "Gutenburg",
                 "opening_hours": null,
+                "osm_id": 3414232868,
                 "website": null,
                 "wikidata": "Q1012121",
                 "wikipedia": "de:Burg Gutenburg (Gutenburg BE)"
@@ -2766,6 +2919,7 @@
                 "email": null,
                 "name": "Ruine Breitenlandenberg",
                 "opening_hours": null,
+                "osm_id": 3426671299,
                 "website": null,
                 "wikidata": "Q2175214",
                 "wikipedia": "de:Ruine Breitenlandenberg"
@@ -2784,6 +2938,7 @@
                 "email": null,
                 "name": "Ruine Rosenberg",
                 "opening_hours": null,
+                "osm_id": 3471347453,
                 "website": null,
                 "wikidata": "Q2175404",
                 "wikipedia": "de:Ruine Rosenberg"
@@ -2802,6 +2957,7 @@
                 "email": null,
                 "name": "Ruine Jagdburg",
                 "opening_hours": "24/7",
+                "osm_id": 3477327694,
                 "website": null,
                 "wikidata": "Q2175322",
                 "wikipedia": "de:Ruine Jagdburg"
@@ -2820,6 +2976,7 @@
                 "email": null,
                 "name": "Chateau de Wallenried",
                 "opening_hours": null,
+                "osm_id": 3517065441,
                 "website": null,
                 "wikidata": "Q29689042",
                 "wikipedia": null
@@ -2838,6 +2995,7 @@
                 "email": null,
                 "name": "Ruine Wynegg",
                 "opening_hours": null,
+                "osm_id": 3561466727,
                 "website": null,
                 "wikidata": "Q1014666",
                 "wikipedia": "de:Burg Wynegg"
@@ -2856,6 +3014,7 @@
                 "email": null,
                 "name": "Ruine Lunkhofen",
                 "opening_hours": null,
+                "osm_id": 3616196589,
                 "website": null,
                 "wikidata": "Q29580240",
                 "wikipedia": null
@@ -2874,6 +3033,7 @@
                 "email": null,
                 "name": "Römerkastell Tasgetium",
                 "opening_hours": null,
+                "osm_id": 3675580690,
                 "website": null,
                 "wikidata": "Q1331160",
                 "wikipedia": null
@@ -2892,6 +3052,7 @@
                 "email": null,
                 "name": "Burg Hoch-Altstätten",
                 "opening_hours": null,
+                "osm_id": 3701795537,
                 "website": null,
                 "wikidata": "Q67772141",
                 "wikipedia": null
@@ -2910,6 +3071,7 @@
                 "email": null,
                 "name": "Zwing Uri",
                 "opening_hours": null,
+                "osm_id": 3738752742,
                 "website": null,
                 "wikidata": "Q24283789",
                 "wikipedia": "de:Zwing-Uri"
@@ -2928,6 +3090,7 @@
                 "email": null,
                 "name": "Ruines du Château de Rochefort",
                 "opening_hours": null,
+                "osm_id": 3749433218,
                 "website": "http://www.chateaurochefort.ch/",
                 "wikidata": "Q29786047",
                 "wikipedia": "fr:Château de Rochefort (Neuchâtel)"
@@ -2946,6 +3109,7 @@
                 "email": null,
                 "name": "Altenburg",
                 "opening_hours": null,
+                "osm_id": 3979315983,
                 "website": null,
                 "wikidata": "Q1332077",
                 "wikipedia": "de:Schlösschen Altenburg"
@@ -2964,6 +3128,7 @@
                 "email": null,
                 "name": "Cagliatscha",
                 "opening_hours": null,
+                "osm_id": 4027345689,
                 "website": "https://pro-castellis.ch/cagliatscha-1265.shtml",
                 "wikidata": "Q1011294",
                 "wikipedia": "de:Burg Cagliatscha"
@@ -2982,6 +3147,7 @@
                 "email": null,
                 "name": "Burgruine Hohburg",
                 "opening_hours": null,
+                "osm_id": 4109986686,
                 "website": null,
                 "wikidata": "Q67772150",
                 "wikipedia": "de:Ruine Hohburg"
@@ -3000,6 +3166,7 @@
                 "email": null,
                 "name": "Blankenburg auf Schönegg",
                 "opening_hours": null,
+                "osm_id": 4172037696,
                 "website": null,
                 "wikidata": "Q881575",
                 "wikipedia": "de:Blankenburg auf Schönegg"
@@ -3018,6 +3185,7 @@
                 "email": null,
                 "name": "Schloss Schwandegg",
                 "opening_hours": null,
+                "osm_id": 4230329228,
                 "website": "https://www.schloss-schwandegg.ch/",
                 "wikidata": "Q1325353",
                 "wikipedia": "de:Schloss Schwandegg"
@@ -3036,6 +3204,7 @@
                 "email": null,
                 "name": "Ruine Weissenburg",
                 "opening_hours": null,
+                "osm_id": 4241151391,
                 "website": null,
                 "wikidata": "Q1231232",
                 "wikipedia": "de:Ruine Weissenburg"
@@ -3054,6 +3223,7 @@
                 "email": null,
                 "name": "Burgruine Gümmenen",
                 "opening_hours": null,
+                "osm_id": 4368506992,
                 "website": null,
                 "wikidata": "Q2175281",
                 "wikipedia": "de:Ruine_Gümmenen"
@@ -3072,6 +3242,7 @@
                 "email": null,
                 "name": "Ruine Stockalperturm",
                 "opening_hours": null,
+                "osm_id": 4370184084,
                 "website": null,
                 "wikidata": "Q67914637",
                 "wikipedia": null
@@ -3090,6 +3261,7 @@
                 "email": null,
                 "name": "Château du Landeron",
                 "opening_hours": null,
+                "osm_id": 4613130734,
                 "website": null,
                 "wikidata": "Q2242107",
                 "wikipedia": null
@@ -3108,6 +3280,7 @@
                 "email": null,
                 "name": "Ruine Unterer Mannenberg",
                 "opening_hours": null,
+                "osm_id": 4665990061,
                 "website": null,
                 "wikidata": "Q1700496",
                 "wikipedia": "fr:Mannenberg"
@@ -3126,6 +3299,7 @@
                 "email": null,
                 "name": "Ruine Hohenlandenberg",
                 "opening_hours": null,
+                "osm_id": 4686874789,
                 "website": null,
                 "wikidata": "Q1806013",
                 "wikipedia": "de:Ruine Hohenlandenberg"
@@ -3144,6 +3318,7 @@
                 "email": null,
                 "name": "Burgruine Marmarola",
                 "opening_hours": null,
+                "osm_id": 4703976573,
                 "website": null,
                 "wikidata": "Q67772173",
                 "wikipedia": null
@@ -3162,6 +3337,7 @@
                 "email": null,
                 "name": "Schloss Dottenwil",
                 "opening_hours": null,
+                "osm_id": 4774174437,
                 "website": null,
                 "wikidata": "Q1584097",
                 "wikipedia": null
@@ -3180,6 +3356,7 @@
                 "email": null,
                 "name": "Ruine Münchsberg",
                 "opening_hours": null,
+                "osm_id": 4827784517,
                 "website": null,
                 "wikidata": "Q2175360",
                 "wikipedia": "de:Ruine Münchsberg"
@@ -3198,6 +3375,7 @@
                 "email": null,
                 "name": "Fort du Scex",
                 "opening_hours": null,
+                "osm_id": 4892181832,
                 "website": "http://www.forteresse-st-maurice.ch/deutsch/dat_d/s_d/fwkpls_d.htm",
                 "wikidata": "Q1438881",
                 "wikipedia": "de:Fort du Scex"
@@ -3216,6 +3394,7 @@
                 "email": null,
                 "name": "Chateau de la Soie",
                 "opening_hours": null,
+                "osm_id": 4899080621,
                 "website": null,
                 "wikidata": "Q29927272",
                 "wikipedia": null
@@ -3234,6 +3413,7 @@
                 "email": null,
                 "name": "Burgstelle Rappenstein",
                 "opening_hours": null,
+                "osm_id": 4919264894,
                 "website": null,
                 "wikidata": "Q67772185",
                 "wikipedia": null
@@ -3252,6 +3432,7 @@
                 "email": null,
                 "name": "Burgstelle Falkenstein",
                 "opening_hours": null,
+                "osm_id": 4919285922,
                 "website": null,
                 "wikidata": "Q102900152",
                 "wikipedia": null
@@ -3270,6 +3451,7 @@
                 "email": null,
                 "name": "Ruine Schalberg",
                 "opening_hours": null,
+                "osm_id": 4958394060,
                 "website": null,
                 "wikidata": "Q2175414",
                 "wikipedia": "de:Ruine Schalberg"
@@ -3288,6 +3470,7 @@
                 "email": null,
                 "name": "Burg Sola",
                 "opening_hours": null,
+                "osm_id": 5046427190,
                 "website": "https://www.hvg.ch/glarner-burgenweg/1-burg-sola/",
                 "wikidata": "Q29784380",
                 "wikipedia": null
@@ -3306,6 +3489,7 @@
                 "email": null,
                 "name": "Burgruine Grottenstein",
                 "opening_hours": null,
+                "osm_id": 5100178818,
                 "website": null,
                 "wikidata": "Q1012057",
                 "wikipedia": "de:Burg Grottenstein"
@@ -3324,6 +3508,7 @@
                 "email": null,
                 "name": "Ruine Madeln",
                 "opening_hours": null,
+                "osm_id": 5124736761,
                 "website": null,
                 "wikidata": "Q2175363",
                 "wikipedia": "de:Ruine Madeln"
@@ -3342,6 +3527,7 @@
                 "email": null,
                 "name": "Château de Miécourt",
                 "opening_hours": null,
+                "osm_id": 5210628522,
                 "website": "https://www.facmi.ch/",
                 "wikidata": "Q67772823",
                 "wikipedia": null
@@ -3360,6 +3546,7 @@
                 "email": null,
                 "name": "Ruines du château de Montagny",
                 "opening_hours": null,
+                "osm_id": 5264204580,
                 "website": null,
                 "wikidata": "Q29891122",
                 "wikipedia": "de:Burgruine Montagny-près-Yverdon"
@@ -3378,6 +3565,7 @@
                 "email": null,
                 "name": "Schloss Herdern",
                 "opening_hours": null,
+                "osm_id": 5300918721,
                 "website": null,
                 "wikidata": "Q29883029",
                 "wikipedia": null
@@ -3396,6 +3584,7 @@
                 "email": null,
                 "name": "Burg Rossberg",
                 "opening_hours": null,
+                "osm_id": 5489821152,
                 "website": null,
                 "wikidata": "Q1013730",
                 "wikipedia": "de:Burg_Rossberg"
@@ -3414,6 +3603,7 @@
                 "email": null,
                 "name": "Burg Heinzenberg",
                 "opening_hours": null,
+                "osm_id": 5593295129,
                 "website": null,
                 "wikidata": "Q1012273",
                 "wikipedia": "de:Burg Heinzenberg"
@@ -3432,6 +3622,7 @@
                 "email": null,
                 "name": "Burgruine Castrisch",
                 "opening_hours": null,
+                "osm_id": 5627404766,
                 "website": null,
                 "wikidata": "Q1011329",
                 "wikipedia": "de:Burg Castrisch"
@@ -3450,6 +3641,7 @@
                 "email": null,
                 "name": "Burg Friberg",
                 "opening_hours": null,
+                "osm_id": 5627453580,
                 "website": null,
                 "wikidata": "Q1011846",
                 "wikipedia": "de:Burg_Friberg_(Trun)"
@@ -3468,6 +3660,7 @@
                 "email": null,
                 "name": "Burg Kapfenstein",
                 "opening_hours": null,
+                "osm_id": 5627511198,
                 "website": null,
                 "wikidata": "Q1012608",
                 "wikipedia": "de:Burg Kapfenstein"
@@ -3486,6 +3679,7 @@
                 "email": null,
                 "name": "Burg Hohenbalken",
                 "opening_hours": null,
+                "osm_id": 5627514585,
                 "website": null,
                 "wikidata": "Q1012383",
                 "wikipedia": "de:Burg_Hohenbalken"
@@ -3504,6 +3698,7 @@
                 "email": null,
                 "name": "Burg Moregg",
                 "opening_hours": null,
+                "osm_id": 5628311857,
                 "website": null,
                 "wikidata": "Q1013144",
                 "wikipedia": "de:Burg_Moregg"
@@ -3522,6 +3717,7 @@
                 "email": null,
                 "name": "Burg Rappenstein",
                 "opening_hours": null,
+                "osm_id": 5628671286,
                 "website": null,
                 "wikidata": "Q1013583",
                 "wikipedia": "de:Burg_Rappenstein"
@@ -3540,6 +3736,7 @@
                 "email": null,
                 "name": "Burg Saxenstein",
                 "opening_hours": null,
+                "osm_id": 5628723539,
                 "website": null,
                 "wikidata": "Q1013824",
                 "wikipedia": "de:Burg_Saxenstein"
@@ -3558,6 +3755,7 @@
                 "email": null,
                 "name": "Burg Tuor",
                 "opening_hours": null,
+                "osm_id": 5628822414,
                 "website": null,
                 "wikidata": "Q1014301",
                 "wikipedia": "de:Burg_Tuor"
@@ -3576,6 +3774,7 @@
                 "email": null,
                 "name": "Burg Vogelberg",
                 "opening_hours": null,
+                "osm_id": 5628837128,
                 "website": null,
                 "wikidata": "Q1014411",
                 "wikipedia": "de:Burg_Vogelberg"
@@ -3594,6 +3793,7 @@
                 "email": null,
                 "name": "Burg Neu-Signau",
                 "opening_hours": null,
+                "osm_id": 5629054792,
                 "website": null,
                 "wikidata": "Q1013239",
                 "wikipedia": "de:Burg_Neu-Signau"
@@ -3612,6 +3812,7 @@
                 "email": null,
                 "name": "Burg Friesenberg",
                 "opening_hours": null,
+                "osm_id": 5629122641,
                 "website": null,
                 "wikidata": "Q1011871",
                 "wikipedia": "de:Burg_Friesenberg_(Wynigen)"
@@ -3630,6 +3831,7 @@
                 "email": null,
                 "name": "Burgruine Alt-Rheineck",
                 "opening_hours": null,
+                "osm_id": 5629466695,
                 "website": null,
                 "wikidata": "Q29786747",
                 "wikipedia": null
@@ -3648,6 +3850,7 @@
                 "email": null,
                 "name": "Burgstelle Sellenbüren",
                 "opening_hours": null,
+                "osm_id": 5646107721,
                 "website": null,
                 "wikidata": "Q1013983",
                 "wikipedia": "de:Burg Sellenbüren"
@@ -3666,6 +3869,7 @@
                 "email": null,
                 "name": "Burgruine Marmels",
                 "opening_hours": null,
+                "osm_id": 5653941319,
                 "website": null,
                 "wikidata": "Q1013078",
                 "wikipedia": "de:Burg Marmels"
@@ -3684,6 +3888,7 @@
                 "email": null,
                 "name": "Casti Lagenberg",
                 "opening_hours": null,
+                "osm_id": 5653964641,
                 "website": null,
                 "wikidata": "Q1012801",
                 "wikipedia": "de:Burg Lagenberg"
@@ -3702,6 +3907,7 @@
                 "email": null,
                 "name": "Ruine Rosenberg",
                 "opening_hours": null,
+                "osm_id": 5676441325,
                 "website": null,
                 "wikidata": "Q2175317",
                 "wikipedia": "de:Ruine Horen"
@@ -3720,6 +3926,7 @@
                 "email": null,
                 "name": "Bärenburg",
                 "opening_hours": null,
+                "osm_id": 5762357844,
                 "website": null,
                 "wikidata": "Q1011254",
                 "wikipedia": "de:Burg_Bärenburg_(Andeer)"
@@ -3738,6 +3945,7 @@
                 "email": null,
                 "name": "Burgruine Grünenfels",
                 "opening_hours": null,
+                "osm_id": 5762404117,
                 "website": null,
                 "wikidata": "Q1012102",
                 "wikipedia": "de:Burg Grünenfels"
@@ -3756,6 +3964,7 @@
                 "email": null,
                 "name": "Burgruine Heidenberg",
                 "opening_hours": null,
+                "osm_id": 5762408141,
                 "website": null,
                 "wikidata": "Q1012249",
                 "wikipedia": "de:Burg Heidenberg"
@@ -3774,6 +3983,7 @@
                 "email": null,
                 "name": "Burgruine Löwenstein",
                 "opening_hours": null,
+                "osm_id": 5762480318,
                 "website": null,
                 "wikidata": "Q1013044",
                 "wikipedia": "de:Burg_Löwenstein_(Ilanz)"
@@ -3792,6 +4002,7 @@
                 "email": null,
                 "name": "Burg Schwarzenstein",
                 "opening_hours": null,
+                "osm_id": 5762494486,
                 "website": null,
                 "wikidata": "Q1013941",
                 "wikipedia": "de:Burg Schwarzenstein (Obersaxen)"
@@ -3810,6 +4021,7 @@
                 "email": null,
                 "name": "Burgruine Valendas",
                 "opening_hours": null,
+                "osm_id": 5762504483,
                 "website": null,
                 "wikidata": "Q1014352",
                 "wikipedia": "de:Burg Valendas"
@@ -3828,6 +4040,7 @@
                 "email": null,
                 "name": "Burgstelle Trimmis",
                 "opening_hours": null,
+                "osm_id": 5762504622,
                 "website": null,
                 "wikidata": "Q102898617",
                 "wikipedia": null
@@ -3846,6 +4059,7 @@
                 "email": null,
                 "name": "Burgruine Wildenberg",
                 "opening_hours": null,
+                "osm_id": 5762508653,
                 "website": null,
                 "wikidata": "Q1014596",
                 "wikipedia": "de:Burg Wildenberg (Falera)"
@@ -3864,6 +4078,7 @@
                 "email": null,
                 "name": "Ruine Alt-Wildberg",
                 "opening_hours": null,
+                "osm_id": 5965003129,
                 "website": null,
                 "wikidata": "Q2175182",
                 "wikipedia": "de:Ruine Alt-Wildberg"
@@ -3882,6 +4097,7 @@
                 "email": null,
                 "name": "Burgstelle Buch",
                 "opening_hours": null,
+                "osm_id": 5965006827,
                 "website": null,
                 "wikidata": "Q56648460",
                 "wikipedia": "de:Burg Buch (Winterthur)"
@@ -3900,6 +4116,7 @@
                 "email": null,
                 "name": "Schloss Bellikon",
                 "opening_hours": null,
+                "osm_id": 5986984836,
                 "website": null,
                 "wikidata": "Q2240231",
                 "wikipedia": "de:Schloss Bellikon"
@@ -3918,6 +4135,7 @@
                 "email": null,
                 "name": "Ruine Böbikon",
                 "opening_hours": null,
+                "osm_id": 5987030950,
                 "website": null,
                 "wikidata": "Q14538239",
                 "wikipedia": "de:Ruine Böbikon"
@@ -3936,6 +4154,7 @@
                 "email": null,
                 "name": "Ruine Tössegg",
                 "opening_hours": null,
+                "osm_id": 5988350249,
                 "website": null,
                 "wikidata": "Q1666922",
                 "wikipedia": "de:Ruine Tössegg"
@@ -3954,6 +4173,7 @@
                 "email": null,
                 "name": "Warte Mannhausen",
                 "opening_hours": null,
+                "osm_id": 5991231959,
                 "website": null,
                 "wikidata": "Q29574190",
                 "wikipedia": null
@@ -3972,6 +4192,7 @@
                 "email": null,
                 "name": "Ruines du Château Morestel",
                 "opening_hours": null,
+                "osm_id": 6006168717,
                 "website": null,
                 "wikidata": "Q29927450",
                 "wikipedia": null
@@ -3990,6 +4211,7 @@
                 "email": null,
                 "name": "Ruine Hasenburg",
                 "opening_hours": null,
+                "osm_id": 6013968279,
                 "website": null,
                 "wikidata": "Q59617012",
                 "wikipedia": "de:Ruine Hasenburg (Grimmenstein)"
@@ -4008,6 +4230,7 @@
                 "email": null,
                 "name": "Ruine Festi",
                 "opening_hours": null,
+                "osm_id": 6014018437,
                 "website": null,
                 "wikidata": "Q1665132",
                 "wikipedia": "de:Ruine Festi (Ligerz)"
@@ -4026,6 +4249,7 @@
                 "email": null,
                 "name": "Burgruine Frischenberg",
                 "opening_hours": null,
+                "osm_id": 6020806251,
                 "website": null,
                 "wikidata": "Q1011876",
                 "wikipedia": "de:Burg Frischenberg"
@@ -4044,6 +4268,7 @@
                 "email": null,
                 "name": "Burgstelle Hebelstein",
                 "opening_hours": null,
+                "osm_id": 6027925903,
                 "website": null,
                 "wikidata": "Q67772228",
                 "wikipedia": null
@@ -4062,6 +4287,7 @@
                 "email": null,
                 "name": "Burgstelle Burgermösli",
                 "opening_hours": null,
+                "osm_id": 6027975046,
                 "website": null,
                 "wikidata": "Q29932604",
                 "wikipedia": null
@@ -4080,6 +4306,7 @@
                 "email": null,
                 "name": "Burgstelle Liebenberg",
                 "opening_hours": null,
+                "osm_id": 6028494517,
                 "website": null,
                 "wikidata": "Q67772231",
                 "wikipedia": null
@@ -4098,6 +4325,7 @@
                 "email": null,
                 "name": "Burgstelle Schlossbuck",
                 "opening_hours": null,
+                "osm_id": 6040429283,
                 "website": null,
                 "wikidata": "Q29574068",
                 "wikipedia": null
@@ -4116,6 +4344,7 @@
                 "email": null,
                 "name": "Burgstelle Multberg",
                 "opening_hours": null,
+                "osm_id": 6040449854,
                 "website": null,
                 "wikidata": "Q67772234",
                 "wikipedia": "de:Burgstelle Multberg"
@@ -4134,6 +4363,7 @@
                 "email": null,
                 "name": "Burgstelle Stadion",
                 "opening_hours": null,
+                "osm_id": 6042851508,
                 "website": null,
                 "wikidata": "Q67772237",
                 "wikipedia": null
@@ -4152,6 +4382,7 @@
                 "email": null,
                 "name": "Burgstelle Hasenstein",
                 "opening_hours": null,
+                "osm_id": 6042876310,
                 "website": null,
                 "wikidata": "Q67772241",
                 "wikipedia": null
@@ -4170,6 +4401,7 @@
                 "email": null,
                 "name": "Burgstelle Chranzenberg",
                 "opening_hours": null,
+                "osm_id": 6042932644,
                 "website": null,
                 "wikidata": "Q67772245",
                 "wikipedia": null
@@ -4188,6 +4420,7 @@
                 "email": null,
                 "name": "Ruine Clanx",
                 "opening_hours": null,
+                "osm_id": 6044835067,
                 "website": null,
                 "wikidata": "Q2175234",
                 "wikipedia": "de:Ruine Clanx"
@@ -4206,6 +4439,7 @@
                 "email": null,
                 "name": "Schlossbuck",
                 "opening_hours": null,
+                "osm_id": 6047628318,
                 "website": null,
                 "wikidata": "Q29932505",
                 "wikipedia": "de:Burgstelle Schlossbuck"
@@ -4224,6 +4458,7 @@
                 "email": null,
                 "name": "Laubegg",
                 "opening_hours": null,
+                "osm_id": 6067502343,
                 "website": null,
                 "wikidata": "Q1012857",
                 "wikipedia": "de:Burg Laubegg (BE)"
@@ -4242,6 +4477,7 @@
                 "email": null,
                 "name": "Burgstelle Strassberg",
                 "opening_hours": null,
+                "osm_id": 6067502364,
                 "website": null,
                 "wikidata": "Q67772251",
                 "wikipedia": null
@@ -4260,6 +4496,7 @@
                 "email": null,
                 "name": "Burgruine Erlenbach",
                 "opening_hours": null,
+                "osm_id": 6067511264,
                 "website": null,
                 "wikidata": "Q67772254",
                 "wikipedia": null
@@ -4278,6 +4515,7 @@
                 "email": null,
                 "name": "Burgstelle Gsteig",
                 "opening_hours": null,
+                "osm_id": 6067539306,
                 "website": null,
                 "wikidata": "Q67772255",
                 "wikipedia": null
@@ -4296,6 +4534,7 @@
                 "email": null,
                 "name": "Ruine Festi",
                 "opening_hours": null,
+                "osm_id": 6067546348,
                 "website": null,
                 "wikidata": "Q18326495",
                 "wikipedia": "de:Ruine Festi (Bennewil)"
@@ -4314,6 +4553,7 @@
                 "email": null,
                 "name": "Ruine Riedburg",
                 "opening_hours": null,
+                "osm_id": 6067550540,
                 "website": null,
                 "wikidata": "Q1727529",
                 "wikipedia": "de:Ruine Riedburg"
@@ -4332,6 +4572,7 @@
                 "email": null,
                 "name": "Burg Brandis",
                 "opening_hours": null,
+                "osm_id": 6074804207,
                 "website": null,
                 "wikidata": "Q1011142",
                 "wikipedia": "de:Burg Brandis"
@@ -4350,6 +4591,7 @@
                 "email": null,
                 "name": "Burg Aris ob Kien",
                 "opening_hours": null,
+                "osm_id": 6074854753,
                 "website": null,
                 "wikidata": "Q1010836",
                 "wikipedia": "de:Burg Aris ob Kien"
@@ -4368,6 +4610,7 @@
                 "email": null,
                 "name": "Romont",
                 "opening_hours": null,
+                "osm_id": 6074856133,
                 "website": null,
                 "wikidata": "Q67772258",
                 "wikipedia": null
@@ -4386,6 +4629,7 @@
                 "email": null,
                 "name": "Ruine Oberer Mannenberg",
                 "opening_hours": null,
+                "osm_id": 6081018389,
                 "website": null,
                 "wikidata": "Q1700496",
                 "wikipedia": "de:Ruine Oberer Mannenberg"
@@ -4404,6 +4648,7 @@
                 "email": null,
                 "name": "Ruines du Château de Sainte Ursanne",
                 "opening_hours": null,
+                "osm_id": 6193239766,
                 "website": null,
                 "wikidata": "Q29785348",
                 "wikipedia": null
@@ -4422,6 +4667,7 @@
                 "email": null,
                 "name": "Burgruine Fracstein",
                 "opening_hours": null,
+                "osm_id": 6210075068,
                 "website": null,
                 "wikidata": "Q1011758",
                 "wikipedia": "de:Burg Fracstein"
@@ -4440,6 +4686,7 @@
                 "email": null,
                 "name": "Schloss Regensberg",
                 "opening_hours": null,
+                "osm_id": 6405116864,
                 "website": "http://www.schlossregensberg.ch/",
                 "wikidata": "Q2243086",
                 "wikipedia": "de:Schloss Regensberg"
@@ -4458,6 +4705,7 @@
                 "email": null,
                 "name": "Burgstelle Neu Meldegg",
                 "opening_hours": null,
+                "osm_id": 6405148590,
                 "website": null,
                 "wikidata": "Q67772265",
                 "wikipedia": null
@@ -4476,6 +4724,7 @@
                 "email": null,
                 "name": "Ruine Göskon",
                 "opening_hours": null,
+                "osm_id": 6417110027,
                 "website": null,
                 "wikidata": "Q28000760",
                 "wikipedia": "de:Ruine Göskon"
@@ -4494,6 +4743,7 @@
                 "email": null,
                 "name": "Erdmannliloch",
                 "opening_hours": null,
+                "osm_id": 6419670946,
                 "website": null,
                 "wikidata": "Q102105508",
                 "wikipedia": "de:Grottenburg Hohfluh"
@@ -4512,6 +4762,7 @@
                 "email": null,
                 "name": "Burgstelle Hächigen",
                 "opening_hours": null,
+                "osm_id": 6419731352,
                 "website": null,
                 "wikidata": "Q102872320",
                 "wikipedia": null
@@ -4530,6 +4781,7 @@
                 "email": null,
                 "name": "Burgstelle Altenteufen",
                 "opening_hours": null,
+                "osm_id": 6419742095,
                 "website": null,
                 "wikidata": "Q101584140",
                 "wikipedia": "de:Burgstelle Altenteufen"
@@ -4548,6 +4800,7 @@
                 "email": null,
                 "name": "Burgstelle Radegg",
                 "opening_hours": null,
+                "osm_id": 6419753631,
                 "website": null,
                 "wikidata": "Q102171185",
                 "wikipedia": "de:Burgstelle Radegg"
@@ -4566,6 +4819,7 @@
                 "email": null,
                 "name": "Burgstelle Wespersbühl",
                 "opening_hours": null,
+                "osm_id": 6419791720,
                 "website": null,
                 "wikidata": "Q102881938",
                 "wikipedia": null
@@ -4584,6 +4838,7 @@
                 "email": null,
                 "name": "Burgstelle Obere Heidenburg",
                 "opening_hours": null,
+                "osm_id": 6419800577,
                 "website": null,
                 "wikidata": "Q102250805",
                 "wikipedia": "de:Burgstelle Obere Heidenburg"
@@ -4602,6 +4857,7 @@
                 "email": null,
                 "name": "Vindonissa",
                 "opening_hours": null,
+                "osm_id": 6420816733,
                 "website": null,
                 "wikidata": "Q667811",
                 "wikipedia": "de:Vindonissa"
@@ -4620,6 +4876,7 @@
                 "email": null,
                 "name": "Kastell Vitudurum",
                 "opening_hours": null,
+                "osm_id": 6431863749,
                 "website": null,
                 "wikidata": "Q164912",
                 "wikipedia": "de:Vitudurum"
@@ -4638,6 +4895,7 @@
                 "email": null,
                 "name": "Vordere Erlinsburg",
                 "opening_hours": null,
+                "osm_id": 6433039469,
                 "website": null,
                 "wikidata": "Q104381836",
                 "wikipedia": null
@@ -4656,6 +4914,7 @@
                 "email": null,
                 "name": "Mittlere Erlinsburg",
                 "opening_hours": null,
+                "osm_id": 6433048290,
                 "website": null,
                 "wikidata": "Q67772269",
                 "wikipedia": null
@@ -4674,6 +4933,7 @@
                 "email": null,
                 "name": "Hintere Erlinsburg",
                 "opening_hours": null,
+                "osm_id": 6433050924,
                 "website": null,
                 "wikidata": "Q104383057",
                 "wikipedia": null
@@ -4692,6 +4952,7 @@
                 "email": null,
                 "name": "Hinterste Erlinsburg",
                 "opening_hours": null,
+                "osm_id": 6433054700,
                 "website": null,
                 "wikidata": "Q67772274",
                 "wikipedia": null
@@ -4710,6 +4971,7 @@
                 "email": null,
                 "name": "Ruine Wagenburg",
                 "opening_hours": null,
+                "osm_id": 6434170118,
                 "website": null,
                 "wikidata": "Q29932951",
                 "wikipedia": "de:Ruine Wagenburg (Oberembrach)"
@@ -4728,6 +4990,7 @@
                 "email": null,
                 "name": "Ruine Zwingherrenschloss",
                 "opening_hours": null,
+                "osm_id": 6434509622,
                 "website": null,
                 "wikidata": "Q29928905",
                 "wikipedia": null
@@ -4746,6 +5009,7 @@
                 "email": null,
                 "name": "Castello Trivulzio",
                 "opening_hours": null,
+                "osm_id": 6445923485,
                 "website": null,
                 "wikidata": "Q67772280",
                 "wikipedia": null
@@ -4764,6 +5028,7 @@
                 "email": null,
                 "name": "Ruine Grimmenstein",
                 "opening_hours": null,
+                "osm_id": 6501065287,
                 "website": null,
                 "wikidata": "Q2175278",
                 "wikipedia": "de:Ruine Grimmenstein"
@@ -4782,6 +5047,7 @@
                 "email": null,
                 "name": "Herrain",
                 "opening_hours": null,
+                "osm_id": 6633061249,
                 "website": "http://www.waymarking.com/waymarks/WMRZE0_Herrain_Schupfart_AG_Switzerland",
                 "wikidata": "Q1613951",
                 "wikipedia": "de:Herrain"
@@ -4800,6 +5066,7 @@
                 "email": null,
                 "name": "Burgruine Münchenstein",
                 "opening_hours": null,
+                "osm_id": 6639206608,
                 "website": "http://www.schloss-muenchenstein.ch/",
                 "wikidata": "Q488281",
                 "wikipedia": "de:Ruine Münchenstein"
@@ -4818,6 +5085,7 @@
                 "email": null,
                 "name": "Le Manoir",
                 "opening_hours": null,
+                "osm_id": 6745155462,
                 "website": null,
                 "wikidata": "Q29891565",
                 "wikipedia": null
@@ -4836,6 +5104,7 @@
                 "email": null,
                 "name": "Burg Gerzensee",
                 "opening_hours": null,
+                "osm_id": 6784714596,
                 "website": null,
                 "wikidata": "Q1011946",
                 "wikipedia": "de:Burg Gerzensee"
@@ -4854,6 +5123,7 @@
                 "email": null,
                 "name": "Burg Rothöchi",
                 "opening_hours": null,
+                "osm_id": 6784720177,
                 "website": null,
                 "wikidata": "Q1013745",
                 "wikipedia": "de:Burg Rothöchi"
@@ -4872,6 +5142,7 @@
                 "email": null,
                 "name": "Burg Stein",
                 "opening_hours": null,
+                "osm_id": 6784735829,
                 "website": null,
                 "wikidata": "Q1014091",
                 "wikipedia": "de:Burg Stein (Rheinfelden)"
@@ -4890,6 +5161,7 @@
                 "email": null,
                 "name": "Burg Oltigen",
                 "opening_hours": null,
+                "osm_id": 6784737229,
                 "website": null,
                 "wikidata": "Q1013429",
                 "wikipedia": "de:Burg Oltigen"
@@ -4908,6 +5180,7 @@
                 "email": null,
                 "name": "Ruine Itkon",
                 "opening_hours": null,
+                "osm_id": 6784758977,
                 "website": null,
                 "wikidata": "Q1554653",
                 "wikipedia": "de:Ruine Itkon"
@@ -4926,6 +5199,7 @@
                 "email": null,
                 "name": "Ruine Waldhausen",
                 "opening_hours": null,
+                "osm_id": 6784763097,
                 "website": null,
                 "wikidata": "Q14538238",
                 "wikipedia": "de:Ruine Waldhausen"
@@ -4944,6 +5218,7 @@
                 "email": null,
                 "name": "Schlössli Aarau",
                 "opening_hours": null,
+                "osm_id": 6784772181,
                 "website": null,
                 "wikidata": "Q1370412",
                 "wikipedia": "de:Schlössli Aarau"
@@ -4962,6 +5237,7 @@
                 "email": null,
                 "name": "Blauenstein",
                 "opening_hours": null,
+                "osm_id": 6784774282,
                 "website": null,
                 "wikidata": "Q15213175",
                 "wikipedia": "en:Blauenstein"
@@ -4980,6 +5256,7 @@
                 "email": null,
                 "name": "Ruine Serviezel",
                 "opening_hours": null,
+                "osm_id": 6784926817,
                 "website": null,
                 "wikidata": "Q1638048",
                 "wikipedia": "de:Ruine Serviezel"
@@ -4998,6 +5275,7 @@
                 "email": null,
                 "name": "Burg Nydegg",
                 "opening_hours": null,
+                "osm_id": 6785030120,
                 "website": null,
                 "wikidata": "Q1013356",
                 "wikipedia": "de:Burg Nydegg"
@@ -5016,6 +5294,7 @@
                 "email": null,
                 "name": "Ruine de Spiegelberg",
                 "opening_hours": null,
+                "osm_id": 6785055049,
                 "website": null,
                 "wikidata": "Q1715185",
                 "wikipedia": "de:Ruine Spiegelberg (Freiberge)"
@@ -5034,6 +5313,7 @@
                 "email": null,
                 "name": "Ruine Alt-Biederthal",
                 "opening_hours": null,
+                "osm_id": 6785071973,
                 "website": null,
                 "wikidata": "Q2175180",
                 "wikipedia": "de:Ruine Alt-Biederthal"
@@ -5052,6 +5332,7 @@
                 "email": null,
                 "name": "Asuel Castle",
                 "opening_hours": null,
+                "osm_id": 6785752889,
                 "website": null,
                 "wikidata": "Q4811846",
                 "wikipedia": "en:Asuel Castle"
@@ -5070,6 +5351,7 @@
                 "email": null,
                 "name": "Château d’Auvernier",
                 "opening_hours": null,
+                "osm_id": 6785788257,
                 "website": null,
                 "wikidata": "Q4827245",
                 "wikipedia": "en:Auvernier Castle"
@@ -5088,6 +5370,7 @@
                 "email": null,
                 "name": "Burgstelle Untere Heidenburg",
                 "opening_hours": null,
+                "osm_id": 6980930101,
                 "website": null,
                 "wikidata": "Q102257347",
                 "wikipedia": "de:Burgstelle Untere Heidenburg"
@@ -5106,6 +5389,7 @@
                 "email": null,
                 "name": "Burgruine Hirzere",
                 "opening_hours": null,
+                "osm_id": 7029098187,
                 "website": null,
                 "wikidata": "Q104207379",
                 "wikipedia": null
@@ -5124,6 +5408,7 @@
                 "email": null,
                 "name": "Burgruine Eichstalden",
                 "opening_hours": null,
+                "osm_id": 7029098188,
                 "website": null,
                 "wikidata": "Q104207423",
                 "wikipedia": null
@@ -5142,6 +5427,7 @@
                 "email": null,
                 "name": "Ruine Sternenberg",
                 "opening_hours": null,
+                "osm_id": 7033536327,
                 "website": null,
                 "wikidata": "Q104207688",
                 "wikipedia": null
@@ -5160,6 +5446,7 @@
                 "email": null,
                 "name": "Ruine Hilsenstein",
                 "opening_hours": null,
+                "osm_id": 7034344527,
                 "website": null,
                 "wikidata": "Q1505312",
                 "wikipedia": null
@@ -5178,6 +5465,7 @@
                 "email": null,
                 "name": "Burgruine Steinegg",
                 "opening_hours": null,
+                "osm_id": 7034629374,
                 "website": null,
                 "wikidata": null,
                 "wikipedia": null
@@ -5196,6 +5484,7 @@
                 "email": null,
                 "name": "Ruine Bürg",
                 "opening_hours": null,
+                "osm_id": 7034629376,
                 "website": null,
                 "wikidata": "Q2175223",
                 "wikipedia": null
@@ -5214,6 +5503,7 @@
                 "email": null,
                 "name": "Ruine Terenstein",
                 "opening_hours": null,
+                "osm_id": 7034631887,
                 "website": null,
                 "wikidata": "Q104208078",
                 "wikipedia": null
@@ -5232,6 +5522,7 @@
                 "email": null,
                 "name": "Burg Rickenbach",
                 "opening_hours": null,
+                "osm_id": 7041699316,
                 "website": null,
                 "wikidata": "Q104208228",
                 "wikipedia": null
@@ -5250,6 +5541,7 @@
                 "email": null,
                 "name": "Ruine Klosterhubel",
                 "opening_hours": null,
+                "osm_id": 7054738311,
                 "website": null,
                 "wikidata": "Q104208757",
                 "wikipedia": null
@@ -5268,6 +5560,7 @@
                 "email": null,
                 "name": "Burgruine Helfenstein",
                 "opening_hours": null,
+                "osm_id": 7091755898,
                 "website": null,
                 "wikidata": "Q101515803",
                 "wikipedia": "de:Ruine Helfenstein (Festihubel)"
@@ -5286,6 +5579,7 @@
                 "email": null,
                 "name": "Château d'Avenches",
                 "opening_hours": null,
+                "osm_id": 7129682555,
                 "website": null,
                 "wikidata": "Q2968182",
                 "wikipedia": "fr:Château d'Avenches"
@@ -5304,6 +5598,7 @@
                 "email": null,
                 "name": "Altenburg",
                 "opening_hours": null,
+                "osm_id": 7158258898,
                 "website": null,
                 "wikidata": "Q29883194",
                 "wikipedia": "de:Altenburg (Märstetten)"
@@ -5322,6 +5617,7 @@
                 "email": null,
                 "name": "Château d'Échallens",
                 "opening_hours": null,
+                "osm_id": 7202146185,
                 "website": null,
                 "wikidata": "Q2968367",
                 "wikipedia": "fr:Château d'Échallens"
@@ -5340,6 +5636,7 @@
                 "email": null,
                 "name": "Ruine Alt Rued",
                 "opening_hours": null,
+                "osm_id": 7227853382,
                 "website": null,
                 "wikidata": "Q29580716",
                 "wikipedia": null
@@ -5358,6 +5655,7 @@
                 "email": null,
                 "name": "Burgstelle Wessenberg",
                 "opening_hours": null,
+                "osm_id": 7447538992,
                 "website": null,
                 "wikidata": "Q19276110",
                 "wikipedia": "de:Burg Wessenberg"
@@ -5376,6 +5674,7 @@
                 "email": null,
                 "name": null,
                 "opening_hours": null,
+                "osm_id": 7449326715,
                 "website": null,
                 "wikidata": null,
                 "wikipedia": null
@@ -5394,6 +5693,7 @@
                 "email": null,
                 "name": "Schloss Köniz",
                 "opening_hours": null,
+                "osm_id": 7627265560,
                 "website": "https://www.kulturhof.ch/",
                 "wikidata": "Q1654958",
                 "wikipedia": "de:Schloss Köniz"
@@ -5412,6 +5712,7 @@
                 "email": null,
                 "name": "Burg Splügen",
                 "opening_hours": null,
+                "osm_id": 7755784424,
                 "website": null,
                 "wikidata": "Q1014040",
                 "wikipedia": "de:Burg_Splügen"
@@ -5430,6 +5731,7 @@
                 "email": null,
                 "name": "Schloss Trüllikon",
                 "opening_hours": null,
+                "osm_id": 7820420543,
                 "website": null,
                 "wikidata": "Q29933144",
                 "wikipedia": null
@@ -5448,6 +5750,7 @@
                 "email": null,
                 "name": "Castello di Santa Maria",
                 "opening_hours": null,
+                "osm_id": 7934740743,
                 "website": null,
                 "wikidata": "Q1048854",
                 "wikipedia": "de:Castello di Santa Maria"
@@ -5466,6 +5769,7 @@
                 "email": null,
                 "name": "Château de Villarsel-le-Gibloux",
                 "opening_hours": null,
+                "osm_id": 7937611745,
                 "website": null,
                 "wikidata": "Q56302187",
                 "wikipedia": null
@@ -5484,6 +5788,7 @@
                 "email": null,
                 "name": "Burg Grenchen",
                 "opening_hours": null,
+                "osm_id": 8042929770,
                 "website": null,
                 "wikidata": "Q29880562",
                 "wikipedia": "de:Burg_Grenchen"
@@ -5502,6 +5807,7 @@
                 "email": null,
                 "name": "Burgstelle Mandach",
                 "opening_hours": null,
+                "osm_id": 8148016503,
                 "website": null,
                 "wikidata": "Q102170711",
                 "wikipedia": "de:Burgstelle Mandach"
@@ -5520,6 +5826,7 @@
                 "email": null,
                 "name": "Burgstelle Schollenberg",
                 "opening_hours": null,
+                "osm_id": 8148577408,
                 "website": null,
                 "wikidata": "Q102177853",
                 "wikipedia": "de:Burgstelle Schollenberg"
@@ -5538,6 +5845,7 @@
                 "email": null,
                 "name": "Burgestelle Wandelberg",
                 "opening_hours": null,
+                "osm_id": 8169282143,
                 "website": null,
                 "wikidata": "Q102367418",
                 "wikipedia": "de:Burg Wandelberg"
@@ -5556,6 +5864,7 @@
                 "email": null,
                 "name": "Alt-Rapperswil",
                 "opening_hours": null,
+                "osm_id": 8173104333,
                 "website": null,
                 "wikidata": "Q4735927",
                 "wikipedia": "en:Alt Rapperswil Castle"
@@ -5574,6 +5883,7 @@
                 "email": null,
                 "name": "Burgstelle Mülenen",
                 "opening_hours": null,
+                "osm_id": 8176951739,
                 "website": null,
                 "wikidata": "Q102512512",
                 "wikipedia": "de:Wasserburg Mülenen"
@@ -5592,6 +5902,7 @@
                 "email": null,
                 "name": "Altes Schloss Andelfingen",
                 "opening_hours": null,
+                "osm_id": 8178774159,
                 "website": null,
                 "wikidata": "Q102690996",
                 "wikipedia": "de:Altes Schloss Andelfingen"
@@ -5610,6 +5921,7 @@
                 "email": null,
                 "name": "Burgstelle Schiterberg",
                 "opening_hours": null,
+                "osm_id": 8181074853,
                 "website": null,
                 "wikidata": "Q102879126",
                 "wikipedia": null
@@ -5628,6 +5940,7 @@
                 "email": null,
                 "name": "Burgstelle Eichhölzli",
                 "opening_hours": null,
+                "osm_id": 8181172092,
                 "website": null,
                 "wikidata": "Q102889894",
                 "wikipedia": null
@@ -5646,6 +5959,7 @@
                 "email": null,
                 "name": "Ruine Hintere Birseck",
                 "opening_hours": null,
+                "osm_id": 8355898813,
                 "website": null,
                 "wikidata": "Q103944033",
                 "wikipedia": null
@@ -5664,6 +5978,7 @@
                 "email": null,
                 "name": "Ruine Spitzburg",
                 "opening_hours": null,
+                "osm_id": 8356065242,
                 "website": null,
                 "wikidata": "Q105011193",
                 "wikipedia": null
@@ -5682,6 +5997,7 @@
                 "email": null,
                 "name": "La Bâtie Beauregard",
                 "opening_hours": null,
+                "osm_id": 8357345116,
                 "website": null,
                 "wikidata": "Q67772264",
                 "wikipedia": null
@@ -5700,6 +6016,7 @@
                 "email": null,
                 "name": "Ruine Langenstein",
                 "opening_hours": null,
+                "osm_id": 8380388023,
                 "website": "https://www.gruenenberg.ch/",
                 "wikidata": "Q105155112",
                 "wikipedia": null
@@ -5718,6 +6035,7 @@
                 "email": null,
                 "name": "Ruine der la Tour",
                 "opening_hours": null,
+                "osm_id": 8643766617,
                 "website": null,
                 "wikidata": "Q29929292",
                 "wikipedia": null
@@ -5736,6 +6054,7 @@
                 "email": null,
                 "name": "Altes Schloss Gerzensee",
                 "opening_hours": null,
+                "osm_id": 8745473692,
                 "website": null,
                 "wikidata": "Q439590",
                 "wikipedia": "de:Altes Schloss Gerzensee"
@@ -5754,6 +6073,7 @@
                 "email": null,
                 "name": "ruines du château du Crêt",
                 "opening_hours": null,
+                "osm_id": 8930788836,
                 "website": null,
                 "wikidata": "Q29891869",
                 "wikipedia": null
@@ -5772,6 +6092,7 @@
                 "email": null,
                 "name": "Burgruine",
                 "opening_hours": null,
+                "osm_id": 8930788837,
                 "website": null,
                 "wikidata": "Q29892189",
                 "wikipedia": null
