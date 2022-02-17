@@ -1,0 +1,12 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    9.065665,
+                    47.674071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "email": 
