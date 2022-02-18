@@ -5090,11 +5090,11 @@
             "type": "node"
         }
     ],
-    "generator": "Overpass API 0.7.57.1 74a55df1",
+    "generator": "Overpass API 0.7.57 93a4d346",
     "osm3s": {
         "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-        "timestamp_areas_base": "2022-02-16T08:28:58Z",
-        "timestamp_osm_base": "2022-02-16T09:31:39Z"
+        "timestamp_areas_base": "2022-02-18T08:37:54Z",
+        "timestamp_osm_base": "2022-02-18T10:17:25Z"
     },
     "version": 0.6
 }
