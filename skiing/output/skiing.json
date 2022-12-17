@@ -94,5 +94,13 @@
         "googleplaceid":"ChIJp4jQYZTbmkcRFrAEs7h8dhc",
         "googlename":"Skilift Hemberg",
         "wispo_resort":null
+    },
+    {
+        "name":"Zauberteppich Hemberg",
+        "osm_id":392320772,
+        "@type":"way",
+        "googleplaceid":null,
+        "googlename":null,
+        "wispo_resort":null
     }
 ]
