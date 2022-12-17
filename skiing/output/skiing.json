@@ -1,0 +1,98 @@
+[
+    {
+        "name":"Skilift Heiden",
+        "osm_id":199566291,
+        "@type":"way",
+        "googleplaceid":"ChIJ_9Ww_O8Zm0cR8vhSVdzcckU",
+        "googlename":"Skilift Heiden",
+        "wispo_resort":null
+    },
+    {
+        "name":"Kinderskilift Bischofsberg Heiden",
+        "osm_id":1122829048,
+        "@type":"way",
+        "googleplaceid":"ChIJ-dTTa-YZm0cRhwr1aRXy3v0",
+        "googlename":"Kinderskilift",
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift Kaien",
+        "osm_id":329361494,
+        "@type":"way",
+        "googleplaceid":"ChIJBUjp14MZm0cRKRsY54Dsyu0",
+        "googlename":"Skilift Grub-Kaien",
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift St. Anton",
+        "osm_id":195034323,
+        "@type":"way",
+        "googleplaceid":"ChIJjTVBgGYXm0cRAQpd8EGTz8Q",
+        "googlename":"Skilift Oberegg St. Anton AG Talstation",
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift V\u00f6gelinsegg",
+        "osm_id":92516259,
+        "@type":"way",
+        "googleplaceid":"ChIJ-8ksSdQYm0cRpmUhuoGhbcU",
+        "googlename":" Skilift V\u00f6gelinsegg",
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift Blatten Speicher",
+        "osm_id":193296760,
+        "@type":"way",
+        "googleplaceid":null,
+        "googlename":null,
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift Klausenb\u00f6hl Gais",
+        "osm_id":329359874,
+        "@type":"way",
+        "googleplaceid":null,
+        "googlename":null,
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift Schwellbrunn",
+        "osm_id":308709124,
+        "@type":"way",
+        "googleplaceid":"ChIJY1A7TF7emkcRamdo-7vh2f4",
+        "googlename":"Skilift AG Schwellbrunn",
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift H\u00f6rnli",
+        "osm_id":251610986,
+        "@type":"way",
+        "googleplaceid":"ChIJufFtEdTZmkcR11PN52SdcfM",
+        "googlename":"Skilift H\u00f6rnli",
+        "wispo_resort":null
+    },
+    {
+        "name":"Skilift Osteregg",
+        "osm_id":31900074,
+        "@type":"way",
+        "googleplaceid":"ChIJ8RwQ5DbfmkcRY2r_WZK9AjA",
+        "googlename":"Skilift Urn\u00e4sch AG",
+        "wispo_resort":467.0
+    },
+    {
+        "name":"Kinder-Ponylift Urn\u00e4sch",
+        "osm_id":667735555,
+        "@type":"way",
+        "googleplaceid":null,
+        "googlename":null,
+        "wispo_resort":467.0
+    },
+    {
+        "name":"Skilift Hemberg",
+        "osm_id":55885657,
+        "@type":"way",
+        "googleplaceid":"ChIJp4jQYZTbmkcRFrAEs7h8dhc",
+        "googlename":"Skilift Hemberg",
+        "wispo_resort":null
+    }
+]

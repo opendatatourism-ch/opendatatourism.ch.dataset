@@ -1,13 +1,13 @@
-name,osm_id,@type,googleplaceid,googlename
-Skilift Heiden,199566291,way,ChIJ_9Ww_O8Zm0cR8vhSVdzcckU,Skilift Heiden
-Kinderskilift Bischofsberg Heiden,,,ChIJ-dTTa-YZm0cRhwr1aRXy3v0,Kinderskilift
-Skilift Kaien,329361494,way,ChIJBUjp14MZm0cRKRsY54Dsyu0,Skilift Grub-Kaien
-Skilift St. Anton,195034323,way,ChIJjTVBgGYXm0cRAQpd8EGTz8Q,Skilift Oberegg St. Anton AG Talstation
+name,osm_id,@type,googleplaceid,googlename,wispo_resort
+Skilift Heiden,199566291,way,ChIJ_9Ww_O8Zm0cR8vhSVdzcckU,Skilift Heiden,
+Kinderskilift Bischofsberg Heiden,1122829048,way,ChIJ-dTTa-YZm0cRhwr1aRXy3v0,Kinderskilift,
+Skilift Kaien,329361494,way,ChIJBUjp14MZm0cRKRsY54Dsyu0,Skilift Grub-Kaien,
+Skilift St. Anton,195034323,way,ChIJjTVBgGYXm0cRAQpd8EGTz8Q,Skilift Oberegg St. Anton AG Talstation,
 Skilift Vögelinsegg,92516259,way,ChIJ-8ksSdQYm0cRpmUhuoGhbcU, Skilift Vögelinsegg
 Skilift Blatten Speicher,193296760,way,,
 Skilift Klausenböhl Gais,329359874,way,,,
 Skilift Schwellbrunn,308709124,way,ChIJY1A7TF7emkcRamdo-7vh2f4,Skilift AG Schwellbrunn
 Skilift Hörnli,251610986,way,ChIJufFtEdTZmkcR11PN52SdcfM,Skilift Hörnli
-Skilift Osteregg,31900074,way,ChIJ8RwQ5DbfmkcRY2r_WZK9AjA,Skilift Urnäsch AG
-Kinder-Ponylift Urnäsch,667735555,way,,
+Skilift Osteregg,31900074,way,ChIJ8RwQ5DbfmkcRY2r_WZK9AjA,Skilift Urnäsch AG,467
+Kinder-Ponylift Urnäsch,667735555,way,,,467
 Skilift Hemberg,55885657,way,ChIJp4jQYZTbmkcRFrAEs7h8dhc,Skilift Hemberg
